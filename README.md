@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kit.</h1>
+<h1 align="center">Hi 👋💛, I'm Kit.</h1>
 <h3 align="center">A new but passionate developer currently learning the MERN stack.</h3>
 
 <p align="center">I’m currently studying at TripleTen</p>
