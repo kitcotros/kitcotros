@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kit.</h1>
 <h3 align="center">A new but passionate developer currently learning the MERN stack.</h3>
 
-- I’m currently studying at **TripleTen**
+<p align="center">I’m currently studying at **TripleTen**</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/kit-cotros-56a214367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kit-cotros-56a214367" height="30" width="40" /></a>
