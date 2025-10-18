@@ -3,11 +3,13 @@
 
 <p align="center">I’m currently studying at TripleTen</p>
 
-<p align="center"> Here are my student projects so far: </br>
+<p align="center">Here are my student projects so far: </br>
   <a href="https://github.com/kitcotros/se_project_library" target="_blank">Landing page for a library</a><br>
   <a href="https://github.com/kitcotros/se_project_coffeeshop-ft" target="_blank">Page for the library's coffeeshop</a><br>
   <a href="https://github.com/kitcotros/se_project_spots" target="_blank">Social Media Profile Page</a>
 </p>
+
+<p align="center">I am currently working on a full stack react web application called <a href="https://github.com/kitcotros/se_project_react" target="_blank">What to Wear</a></p>
 
 
 
